@@ -1,0 +1,25 @@
+*{
+    margin: 0px;
+    padding: 0px;
+    font-family: "Fira sans", sans-serif;
+}
+
+.images{
+    width: 600px;
+    height: 600px;
+    background-size: cover;
+}
+
+.title{
+    padding: 10% 10%;
+}
+
+.paragraph{
+    padding: 0% 10%;
+}
+
+.link{
+    display: flex;
+    padding: 10% 10%;
+    justify-content: flex-end;
+}
